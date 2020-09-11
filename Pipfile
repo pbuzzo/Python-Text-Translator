@@ -10,6 +10,7 @@ flake8 = "*"
 ibm-watson = "*"
 watson-developer-cloud = "*"
 pandas = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.8"
