@@ -37,6 +37,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Sample MP3 file
+PolynomialRegressionandPipelines.mp3
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
